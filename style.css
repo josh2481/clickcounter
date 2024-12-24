@@ -9,7 +9,6 @@ body {
 }
 
 .content {
-    border: solid;
     border-radius: 5%;
     height: 50%;
     display: flex;
