@@ -4,5 +4,6 @@ body {
 }
 
 content {
+    border: solid;
     background-color: #505050;
 }
